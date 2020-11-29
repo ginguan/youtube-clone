@@ -41,6 +41,7 @@ Play video
 <img src="img/4.jpg" width="30%" height="30%">
 
 Dark Mode
+
 <img src="img/1.jpg" width="30%" height="30%">
 <img src="img/11.jpg" width="30%" height="30%">
 <img src="img/10.jpg" width="30%" height="30%">
