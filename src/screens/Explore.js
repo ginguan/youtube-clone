@@ -6,7 +6,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import {useSelector} from 'react-redux'
 import Card from '../components/Card'
 import Header from '../components/Header'
-
+//https://developers.google.com/youtube/v3/docs/search/list?apix_params=%7B%22part%22%3A%5B%22snippet%22%5D%2C%22q%22%3A%22blackpink%22%2C%22type%22%3A%5B%22video%22%5D%2C%22videoCategoryId%22%3A%2210%22%7D&apix=true
+//'https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=blackpink&type=video&videoCategoryId=10&key==AIzaSyCm01UmtXJgpab2iphhIr_JHA_xX7WoWfo'
 const LittleCard= ({name})=>{
    
     
