@@ -5,6 +5,9 @@ import Constant from 'expo-constants'
 import MiniCard from "../components/MiniCards"
 import {useSelector,useDispatch} from 'react-redux'
 import {useNavigation,useTheme} from '@react-navigation/native'
+//
+
+//'https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=blackpink&type=video&videoCategoryId=10&key==AIzaSyCm01UmtXJgpab2iphhIr_JHA_xX7WoWfo'
 
 //https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=10&q=songs&type=video&key=AIzaSyCm01UmtXJgpab2iphhIr_JHA_xX7WoWfo
 const Search = ({navigation}) =>{
